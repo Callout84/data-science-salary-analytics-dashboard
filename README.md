@@ -166,7 +166,7 @@ Planejo evoluir este projeto com:
 ## 📬 Contato
 
 LinkedIn:
-www.linkedin.com/in/hewerson-francelino
+[www.linkedin.com/in/hewerson-francelino](https://www.linkedin.com/in/hewerson-francelino-a86319183/)
 
 GitHub:
 https://github.com/Callout84
