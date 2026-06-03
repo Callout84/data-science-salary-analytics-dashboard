@@ -1,6 +1,6 @@
 # 📊 Panorama de Remuneração em Data Science (2020–2026)
 
-![Dashboard Preview](images/dashboard-preview.png))
+[![Dashboard Preview](images/dashboard-preview.png))](https://github.com/Callout84/data-science-salary-analytics-dashboard/blob/main/images/dashboard-preview.png.png?raw=true)
 
 ## 🌐 Dashboard Online
 
