@@ -1,6 +1,6 @@
 # 📊 Panorama de Remuneração em Data Science (2020–2026)
 
-![Dashboard Preview](images/dashboard-preview.png)
+!images/dashboard-preview.png.png
 
 ## 🌐 Dashboard Online
 
